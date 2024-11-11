@@ -1,0 +1,16 @@
+#mole {
+    position:absolute;
+    background-color:blue;
+    border-radius: 50%;
+}
+
+#score {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    z-index: 1; 
+}
